@@ -22,6 +22,7 @@ body {
     line-height: 1;
     background: white;
     color: #ff0000;
+    font-size: 16px;
 }
 
 /* tables still need 'cellspacing="0"' in the markup */
