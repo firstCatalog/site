@@ -19,7 +19,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 /* remember to define focus styles! */
 
 body {
-    line-height: 1;
+    line-height: 2;
     background: white;
     color: #ff0000;
     text-align: left;
